@@ -1,6 +1,6 @@
 # Email automation using python
 
-##Project Overview
+## Project Overview
 
 This project automates the process of generating a daily report of the top 5 rented movies from the Sakila database and sending it via email. It connects to a MySQL database, fetches the required data, saves it into a professionally formatted Excel file, and emails the report automatically.
 
